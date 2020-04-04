@@ -1,2 +1,2 @@
 # YesVision
-Optical Static Website - View-(https://paalamugan.github.io/YesVision/)
+Optical Static Website - (https://paalamugan.github.io/YesVision/)
